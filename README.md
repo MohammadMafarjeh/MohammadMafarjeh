@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen interest in web development,cloud AI services and open-source contributions. Here, you'll find a variety of projects that I've worked on.
-
+________________________________________________________________________________________________________________
 🔭 Projects
-
+________________________________________________________________________________________________________________
 Chat-bot developer: 
 We build a chat-bot for BOP Facebook page that replies automatically with 
 full understanding using Oracle and Microsoft Cloud services
@@ -12,13 +12,15 @@ Upgraded an attendance system which manage, control and print attendance records
 We used ASP.NET MVC5 framework with TypeScript.
          
 
-
-📫 How to Reach Me
+____________________________________________________________________________________________________________________
+📫 How to Reach Me:
+____________________________________________________________________________________________________________________
 Email: mohmdmafarjeh@gmail.com
 LinkedIn: (https://ps.linkedin.com/in/mohammad-mafarjeh-27629412a)
+____________________________________________________________________________________________________________________
 ⚡ Fun Fact
 I love solving problem solving puzzles in my free time!
-
+____________________________________________________________________________________________________________________
 Hobbies
 🌍 Traveling and Exploring New Cultures
 📚 Reading (Leadership & Self development)
